@@ -1,0 +1,17 @@
+﻿  BankingSystem.cpp
+  Communication.cpp
+  Conflict.cpp
+  Diplomacy.cpp
+  EconomicManagement.cpp
+  EventHandeling.cpp
+C:\Users\LENOVO\source\repos\strong hold module 2\strong hold module 2\EconomicManagement.cpp(13,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\source\repos\strong hold module 2\strong hold module 2\EconomicManagement.cpp(14,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Kingdom.cpp
+  LeadershipMechanics.cpp
+  Main.cpp
+  Map.cpp
+  MilitarySystem.cpp
+  ResourceEcosystem.cpp
+  Stronghold.h
+  Generating Code...
+  strong hold module 2.vcxproj -> C:\Users\LENOVO\source\repos\strong hold module 2\x64\Debug\strong hold module 2.exe
